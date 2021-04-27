@@ -2,8 +2,8 @@
 pipeline {
 
   environment {
-  registry = "sat112/ense375-test"
-  registryCredential = 'sat112'
+  registry = "nolanflegel/ense_test"
+  registryCredential = 'nolanflegel'
   dockerImage = ''
   }
 
